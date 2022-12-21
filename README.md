@@ -2,7 +2,7 @@
 
 ### Continuously improving every day, always looking to expand my realm of knowledge
 
-- You can find my Porfolio Projects here [portfolio](https://chrisj1751.github.io/Portfolio/)
+- You can find my Porfolio Projects here [Portfolio](https://chrisj1751.github.io/Portfolio/)
 - You can find my tableau dashboards here [Tableau](https://public.tableau.com/app/profile/christopher.robert.jones8458)
 - I’m interested in improving my skills in Tableau and SQL
 - My next goal will be to achieve an entry level business analyst certification
